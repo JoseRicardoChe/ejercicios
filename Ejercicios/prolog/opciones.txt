@@ -1,0 +1,6 @@
+Este programa calcula la densidad de poblacion de tres ciudades de yucatan
+
+Peticiones:
+densidad(valladolid, X)
+densidad(merida, X)
+densidad(tizimin, X)
